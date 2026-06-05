@@ -84,6 +84,6 @@ The MCX data processing handles:
 - Both markets show similar long-term price trends when normalized
 - Understanding these correlations can help in hedging strategies and cross-market arbitrage analysis
 
- ## Project Report
+ ## Project Report - https://renu-1205.github.io/copper_futures/
 
 See Copper Market.pdf for the full demand-supply analysis.
