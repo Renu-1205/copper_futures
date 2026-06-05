@@ -83,3 +83,7 @@ The MCX data processing handles:
 - The correlation between MCX and COMEX copper futures daily returns is approximately **0.578**, indicating a moderate positive relationship
 - Both markets show similar long-term price trends when normalized
 - Understanding these correlations can help in hedging strategies and cross-market arbitrage analysis
+
+ ## Project Report
+
+See Copper Market.pdf for the full demand-supply analysis.
